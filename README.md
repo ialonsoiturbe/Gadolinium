@@ -3,4 +3,4 @@ Análisis de los datos experimentales de la temperatura y la magnetización espo
 ##
 Primero utilizaremos el Método Curve-Fitting comparando las curvas test con la curva del Gd3+ y vemos cuáles coinciden.
 ##
-Después utilizaremos un Análisis de Regresión de los sets de datos test con el del Gadolinio para ver cuál se ajusta mejor.
+Después utilizaremos un Análisis de Regresión de los sets de datos test con el del Gadolinio para ver cuál se ajusta mejor. Comprobaremos que, al no haber una relación lineal entre las variables, los modelos de regresiones lineales no darán buenos resultados(coeficientes de correlación r^2<0.9),
